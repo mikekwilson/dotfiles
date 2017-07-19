@@ -1,0 +1,15 @@
+**/.DS_Store
+
+.DS_Store
+
+.idea
+Thumbs.db
+.log
+.sql
+.sass-cache/
+.codekit-config.json
+*.tags
+
+*.swp
+*.swo
+*.swn
